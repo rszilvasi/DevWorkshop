@@ -1,0 +1,30 @@
+Similar Concepts between Yelp and Microsoft:
+1) Pointing out flaws in the code, not the coder
+2) Small requests are better
+Key Dfferences between Yelp and Microsoft:
+1) Microsoft emphasizes to respect the coders
+2) Yelp emphasizes picking the right reviewer, with a primary reviewer
+At code review, the development team should ensure that their code works 
+properly before publishing, they understand their code, and that it is 
+well tested.
+
+
+
+A "good" code review is the one titled "Parking Lot OO Design 
+(Python)." The submitter explained the requirements of their 
+code and also used meaningful name for their variables. In addition, 
+there is a lot of communication between submitter and reviewer. The 
+reviewer divides their critics into sections, which make it easier 
+for the submitter to understand. 
+(Link: https://codereview.stackexchange.com/questions/216290/parking-lot-oo-design-python)
+
+
+
+A "bad" code review is the one titled "Rust minesweeper grid 
+generator code design." No one has reviewed their yet, however, 
+their code is a little messy with not many meaningful names to 
+their variables. In addition, the submitter didn't really provide 
+an explanation for their code, which would make it hard for a 
+reviewer to examine. I would suggest to the submitter to add more
+comments or explanation. 
+(Link: https://codereview.stackexchange.com/questions/291448/rust-minesweeper-grid-generator-code-design)
